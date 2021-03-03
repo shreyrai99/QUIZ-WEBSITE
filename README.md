@@ -14,9 +14,6 @@ I used the following tools and technologies in order to successfully make the pr
 4.Emoticons are displayed at last based on your performance! <br/>
 5.The user gets to know instantly whether the current question he attempted was wrong or right. <br/>
 
-# Motivation Behind making the App #
-During lockdown I realized a paradigm shift in the way education is being imparted <br/>
-This was made as a fun excercise to implement what I learnt in front end in order to acknowledge the changes that are happening
 
 # Working #
 
